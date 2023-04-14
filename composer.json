@@ -1,0 +1,9 @@
+{
+    "name": "admin/share-me-social-media-application",
+    "autoload": {
+        "psr-4": {
+            "Admin\\ShareMeSocialMediaApplication\\": "src/"
+        }
+    },
+    "require": {}
+}
